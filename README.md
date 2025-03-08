@@ -42,7 +42,7 @@ Dentro de esta carpeta, se encontrará una investigación la cual abarca 4 probl
 
 Cada uno de ellos viene una descripción detallada y su respectiva representación
 
-
+# 
 Autor:
 
 Rendon Rios Adrian Jaret
