@@ -26,9 +26,9 @@ Presentación.pptx - Diapositivas que resumen la investigación, así como un ej
 
 El objetivo es explorar cómo la lógica difusa puede ayudar a los sistemas a ser un poco más precisos a la hora de hacer cálculos y decisiones en base al lenguaje poco preciso del humano.
 
-#Dentro de carpeta U2:
+# Dentro de carpeta U2:
 
-#Carpeta Tarea 1
+# Carpeta Tarea 1
 
 Dentro de esta carpeta, se encontrará una investigación la cual abarca 4 problemas muy conocidos:
 
