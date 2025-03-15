@@ -45,7 +45,15 @@ Cada uno de ellos viene una descripción detallada y su respectiva representaci�
 Además de un archivo PowerPoint que es una presentación expositiva acerca de los temas y sus representaciones.
 
 # Carpeta Tarea 2
-# 
+
+Dentro de esta carpeta, se encontrará una investigación que detalla un poco lo que es el problema de las N reinas, usando el algoritmo de búsqueda Tabú.
+
+Además de un Pseudocódigo, diagrama de flujo con relación al algoritmo de búsqueda, así como un código en Python que resuelve este problema con un tamaño de 8 reinas.
+
+
+
+
+#
 Autor:
 
 Rendon Rios Adrian Jaret
