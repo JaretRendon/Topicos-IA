@@ -43,6 +43,8 @@ Dentro de esta carpeta, se encontrará una investigación la cual abarca 4 probl
 Cada uno de ellos viene una descripción detallada y su respectiva representación
 
 Además de un archivo PowerPoint que es una presentación expositiva acerca de los temas y sus representaciones.
+
+# Carpeta Tarea 2
 # 
 Autor:
 
