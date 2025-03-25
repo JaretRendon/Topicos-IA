@@ -52,6 +52,14 @@ Dentro de esta carpeta, se encontrará una investigación que detalla un poco lo
 
 Además de un Pseudocódigo, diagrama de flujo con relación al algoritmo de búsqueda, así como un código en Python que resuelve este problema con un tamaño de 8 reinas.
 
+# Carpeta U3
+
+# Carpeta Tarea 1
+
+Dentro de esta carpeta se encontrará un código desarrollado en Python que resuelve el problema de las N reinas con recocido simulado, utilizando el método Boltzmann, así
+
+como una imagen ejemplo de un algoritmo usando este mismo método.
+
 
 
 
