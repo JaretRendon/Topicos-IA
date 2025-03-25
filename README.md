@@ -1,5 +1,7 @@
 # Topicos-IA
 Trabajos y tareas de Topicos IA
+# Carpeta U1
+
 
 # Carpeta T1
 Dentro de la carpeta T1 (Tarea 1), se encontrará una investigación sobre las áreas y aplicaciones de la inteligencia artificial, abordando su impacto en diversos sectores y su creciente evolución.
