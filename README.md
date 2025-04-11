@@ -65,6 +65,10 @@ como una imagen ejemplo de un algoritmo usando este mismo método.
 
 En esta carpeta, se encontrará una corta investigación que describe brevemente lo que es la "Evolución Diferencial"
 
+# Carpeta Tarea 2
+
+En esta carpeta está adjunto un código en Python el cual consiste en crear e inicializar un enjambre de partículas.
+
 
 
 #
