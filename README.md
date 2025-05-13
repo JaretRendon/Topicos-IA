@@ -69,6 +69,10 @@ En esta carpeta, se encontrará una corta investigación que describe brevemente
 
 En esta carpeta está adjunto un código en Python el cual consiste en crear e inicializar un enjambre de partículas.
 
+# Carpeta Tarea 4
+
+Se encontrará un algoritmo genético que resuelve el problema del agente viajero, realizado en Python
+
 
 
 #
