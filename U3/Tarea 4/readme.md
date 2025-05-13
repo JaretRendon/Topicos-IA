@@ -3,7 +3,8 @@ Resolución del agente viajero con el algoritmo genético
 
 ## Participantes 
 Rodrigo Alonso Páez Gastélum
-Adrián Jared Rendón Ríos 
+
+Adrián Jaret Rendón Ríos 
 
 ## Objetivo de la actividad 
 
