@@ -14,7 +14,7 @@ Implementar el algoritmo genético para la resolución del problema del agente v
 
 - Primero se define una lista donde estarán las ciudades, un diccionario donde se determinan los costos en base al siguiente grafo 
 <p align="center">
-  <img src="./grafo.jpg" alt="Grafo España">
+  <img src="./AlgorGen.jpg" alt="Grafo España">
 </p>
 <p align="center">
 
