@@ -3,6 +3,7 @@ Multi-layer Perceptron (MLP) que resuelve las operaciones aritmeticas
 
 ## Participantes 
 Rodrigo Alonso Páez Gastélum
+
 Adrián Jaret Rendón Ríos 
 
 ## Objetivo de la actividad 
