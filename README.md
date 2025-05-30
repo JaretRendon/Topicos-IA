@@ -73,6 +73,15 @@ En esta carpeta está adjunto un código en Python el cual consiste en crear e i
 
 Se encontrará un algoritmo genético que resuelve el problema del agente viajero, realizado en Python
 
+# Carpeta U4
+
+# Carpeta Tarea 1
+
+En esta carpeta estará ubicado el código perceptron.py, el cual se encarga de enseñarle a un modelo a realizar operaciones aritméticas,
+
+# Carpeta Tarea 2
+
+En esta carpeta, se encontrará una documentación detallada acerca del desarrollo de un modelo clasificador de flores, así como un código para testearlo.
 
 
 #
